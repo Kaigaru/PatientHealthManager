@@ -33,6 +33,8 @@ When you run the program, it:
    - Health status updates are reflected automatically
      
 Sample Input Format (patients.txt):
+
 Name;Surname;dd/mm/yyyy;height;weight;BMI
+
 Hefty;Smurf;03/04/1960;1.70;49;NA
 
