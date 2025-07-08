@@ -2,7 +2,7 @@
 
 # 🩺 Health Interpreter
 
-**Health Interpreter** is a C program that manages patient health data by reading from a text file, processing the records into a linked list, and offering several health-related operations such as BMI calculation, patient search, and listing unhealthy individuals.
+**Health Interpreter** is a C program that manages patient health data by reading from a text file, processing the records into a linked list, and offering several health-related operations, such as BMI calculation, patient search, and listing individuals with unhealthy conditions.
 
 ## 📌 Features
 
@@ -32,9 +32,8 @@ When you run the program, it:
    - Search is performed by name (first or full)
    - Health status updates are reflected automatically
      
-Sample Input Format (patients.txt):
+**Sample Input Format (patients.txt):**
 
 Name;Surname;dd/mm/yyyy;height;weight;BMI
-
 Hefty;Smurf;03/04/1960;1.70;49;NA
 
